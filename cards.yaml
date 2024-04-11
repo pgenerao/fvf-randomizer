@@ -1,0 +1,306 @@
+- cards:
+    # Buffs
+    "small head":
+      cost: 1
+      type: "buff"
+    "health up":
+      cost: 2
+      type: "buff"
+    "move faster":
+      cost: 1
+      type: "buff"
+    "double jump":
+      cost: 1
+      type: "buff"
+    "more accuracy":
+      cost: 1
+      type: "buff"
+    "steel bullets":
+      cost: 2
+      type: "buff"
+    "big mag":
+      cost: 1
+      type: "buff"
+    "medkit":
+      cost: 2
+      type: "buff"
+    "bullet time":
+      cost: 1
+      type: "buff"
+    "vampire bullets":
+      cost: 3
+      type: "buff"
+    "energy drink":
+      cost: 1
+      type: "buff"
+    "helmet":
+      cost: 2
+      type: "buff"
+    "poison bullets":
+      cost: 2
+      type: "buff"
+    "tin man":
+      cost: 2
+      type: "buff"
+    "invisible":
+      cost: 3
+      type: "buff"
+    "love letter":
+      cost: 1
+      type: "buff"
+    "predator vision":
+      cost: 1
+      type: "buff"
+    "phantom bullets":
+      cost: 3
+      type: "buff"
+    "bomb lover":
+      cost: 3
+      type: "buff"
+    "bigger explosions":
+      cost: 1
+      type: "buff"
+    "thick skin":
+      cost: 1
+      type: "buff"
+    "extra cards":
+      cost: 3
+      type: "buff"
+    "card profaner":
+      cost: 4
+      type: "buff"
+    "card thief":
+      cost: 3
+      type: "buff"
+    "lottery ticket":
+      cost: 2
+      type: "buff"
+    "quick reload":
+      cost: 2
+      type: "buff"
+    "silent steps":
+      cost: 1
+      type: "buff"
+    "ninja smoke":
+      cost: 1
+      type: "buff"
+    "berserker":
+      cost: 2
+      type: "buff"
+    "painkillers":
+      cost: 3
+      type: "buff"
+    "pyromania":
+      cost: 1
+      type: "buff"
+    "reroll":
+      cost: 3
+      type: "buff"
+    "venom eater":
+      cost: 1
+      type: "buff"
+    "brain mirror":
+      cost: 2
+      type: "buff"
+    "sly shooter":
+      cost: 3
+      type: "buff"
+
+    # Debuffs
+    "big head":
+      cost: 2
+      type: "debuff"
+    "health down":
+      cost: 2
+      type: "debuff"
+    "move slower":
+      cost: 2
+      type: "debuff"
+    "no jump":
+      cost: 2
+      type: "debuff"
+    "less accuracy":
+      cost: 1
+      type: "debuff"
+    "rubber bullets":
+      cost: 2
+      type: "debuff"
+    "small mag":
+      cost: 2
+      type: "debuff"
+    "invisible health":
+      cost: 1
+      type: "debuff"
+    "invisible hand":
+      cost: 3
+      type: "debuff"
+    "poison":
+      cost: 1
+      type: "debuff"
+    "garbage day":
+      cost: 1
+      type: "debuff"
+    "mind blowing":
+      cost: 4
+      type: "debuff"
+    "swap weapons":
+      cost: 3
+      type: "debuff"
+    "empty mag":
+      cost: 2
+      type: "debuff"
+    "barbed cards":
+      cost: 2
+      type: "debuff"
+    "pixel-vision":
+      cost: 1
+      type: "debuff"
+    "slow reload":
+      cost: 2
+      type: "debuff"
+    "disarm":
+      cost: 2
+      type: "debuff"
+    "clown shoes":
+      cost: 1
+      type: "debuff"
+    "frozen gun":
+      cost: 2
+      type: "debuff"
+    "silence!":
+      cost: 2
+      type: "debuff"
+
+    # Weapons
+    "boomstick":
+      cost: 3
+      type: "weapon"
+    "albatross 21":
+      cost: 3
+      type: "weapon"
+    "brasshopper":
+      cost: 1
+      type: "weapon"
+    "laika":
+      cost: 2
+      type: "weapon"
+    "fk-82":
+      cost: 3
+      type: "weapon"
+    "golden boira":
+      cost: 2
+      type: "weapon"
+    "punch-r":
+      cost: 3
+      type: "weapon"
+    "katana":
+      cost: 2
+      type: "weapon"
+    "akimbo":
+      cost: 3
+      type: "weapon"
+    "deep fryer":
+      cost: 3
+      type: "weapon"
+
+    # Items
+    "ca-turret":
+      cost: 2
+      type: "item"
+    "bomb":
+      cost: 1
+      type: "item"
+    "wall":
+      cost: 1
+      type: "item"
+    "bomb belt":
+      cost: 2
+      type: "item"
+    "ice block":
+      cost: 1
+      type: "item"
+    "smoke bomb":
+      cost: 1
+      type: "item"
+    "flash bomb":
+      cost: 1
+      type: "item"
+    "land mine":
+      cost: 1
+      type: "item"
+    "bear trap":
+      cost: 1
+      type: "item"
+    "stick bomb":
+      cost: 1
+      type: "item"
+    "toxic bomb":
+      cost: 2
+      type: "item"
+    "kaboomer":
+      cost: 2
+      type: "item"
+    "karatov":
+      cost: 2
+      type: "item"
+    "bouncy wall":
+      cost: 2
+      type: "item"
+    "dr. molebot":
+      cost: 1
+      type: "item"
+    "teleport bomb":
+      cost: 1
+      type: "item"
+    "bat turret lover":
+      cost: 2
+      type: "item"
+    "laser fence":
+      cost: 2
+      type: "item"
+    "dice bomb":
+      cost: 0
+      type: "item"
+
+    # Tricks
+    "present":
+      cost: 1
+      type: "trick"
+    "titan":
+      cost: 4
+      type: "trick"
+    "heartless":
+      cost: 3
+      type: "trick"
+    "nuke":
+      cost: 0
+      type: "trick"
+    "parley":
+      cost: 1
+      type: "trick"
+    "hot potato":
+      cost: 2
+      type: "trick"
+    "warp room":
+      cost: 2
+      type: "trick"
+    "shrink spell":
+      cost: 4
+      type: "trick"
+    "floor is lava":
+      cost: 2
+      type: "trick"
+
+    # Traps
+    "counter card":
+      cost: 3
+      type: "trap"
+    "mirror card":
+      cost: 2
+      type: "trap"
+    "ninja log":
+      cost: 2
+      type: "trap"
+    "self-destruct device":
+      cost: 3
+      type: "trap"
