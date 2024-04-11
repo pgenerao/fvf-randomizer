@@ -9,6 +9,10 @@ pip3 install pyyaml
 # Running
 This is a rudimentary script for generating Friends vs Friends decks.
 
-You can execute this script using `python3 random_deck.py` in the root directory of this repository.
+You can execute this script by running the follow command in the root directory of this repository:
+
+```
+python3 random_deck.py
+```
 
 This will use the information from `cards.yaml` to generate a random, legal deck in Friends vs. Friends.
