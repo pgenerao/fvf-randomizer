@@ -81,3 +81,17 @@ with open("cards.yaml") as stream:
 
     except yaml.YAMLError as e:
         print(e)
+
+with open("characters.yaml") as stream:
+    try:
+        # Import cards w/ costs data from yaml file.
+        characters = yaml.safe_load(stream)[0]["characters"]
+
+        character = random.choice(characters)
+
+        print(f"Your Character: {character}")
+
+        print('-' * term_size.columns)  # Print line
+
+    except yaml.YAMLError as e:
+        print(e)
